@@ -2,7 +2,7 @@
 knitr::opts_chunk$set(echo = TRUE, collapse=TRUE)
 ```
 
-##Дисперсионный анализ 
+ ##Дисперсионный анализ 
 
 Загрузим данные 
 
